@@ -1,7 +1,13 @@
 Snake Game
+
+
+
 This project is a classic Snake Game built using HTML, CSS, and JavaScript. It includes sound effects and a scoring system.
 
 Table of Contents
+
+
+
 Game Features
 Getting Started
 Prerequisites
@@ -10,7 +16,13 @@ How to Play
 Game Controls
 Customization
 Acknowledgements
+
+
+
 Game Features
+
+
+
 Classic snake gameplay.
 Various food items represented by emojis.
 Special food items that provide extra points.
