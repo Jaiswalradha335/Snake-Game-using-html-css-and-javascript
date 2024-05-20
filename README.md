@@ -36,9 +36,12 @@ Prerequisites
 To run the game, you need a modern web browser that supports HTML5, CSS3, and JavaScript.
 
 Installation
+
+
 Clone the repository or download the source code.
 bash
-Copy code
+
+
 git clone https://github.com/your-username/snake-game.git
 Navigate to the project directory.
 bash
