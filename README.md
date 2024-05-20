@@ -45,10 +45,17 @@ bash
 git clone https://github.com/your-username/snake-game.git
 Navigate to the project directory.
 bash
-Copy code
+
+
+
 cd snake-game
 Open index.html in your web browser to start the game.
+
+
 How to Play
+
+
+
 Use the arrow keys on your keyboard to move the snake.
 The snake moves in the direction of the arrow key pressed.
 Eat the food items to gain points. Some food items give more points than others.
