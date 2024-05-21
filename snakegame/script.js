@@ -54,6 +54,8 @@ function startGame() {
   intervalId = setInterval(moveSnake, SPEED);
   createSnake();
   generateFood();
+  specialFoodSound.play();
+  normalFoodSound.play();
 }
 
 // Function to stop the game
