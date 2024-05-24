@@ -4,6 +4,9 @@ Snake Game
 
 This project is a classic Snake Game built using HTML, CSS, and JavaScript. It includes sound effects and a scoring system.
 
+
+
+
 Table of Contents
 
 
@@ -33,18 +36,24 @@ Touch support for mobile devices.
 Dark mode toggle.
 Getting Started
 Prerequisites
+
+
+
 To run the game, you need a modern web browser that supports HTML5, CSS3, and JavaScript.
+
+
+
 
 Installation
 
 
 Clone the repository or download the source code.
-bash
+
 
 
 git clone https://github.com/your-username/snake-game.git
 Navigate to the project directory.
-bash
+
 
 
 
@@ -77,7 +86,11 @@ Swipe up to move up.
 Swipe down to move down.
 Swipe left to move left.
 Swipe right to move right.
+
+
 Customization
+
+
 You can customize various aspects of the game by modifying the JavaScript code:
 
 Food Emojis: Change the foodEmojis array to include different emojis.
