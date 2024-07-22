@@ -113,10 +113,9 @@ sounds/normal_points.mp3: Sound effect for normal food.
 Screenshots
 Include some screenshots of the game if possible to give a visual overview.
 
-Example Screenshot
+
 
 Enjoy playing the Snake Game and feel free to contribute to its development!
 
-Contact
-For any queries or contributions, please contact [your-email@example.com].
+
 
