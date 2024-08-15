@@ -5,11 +5,7 @@
 This project is a classic Snake Game built using HTML, CSS, and JavaScript. It includes sound effects and a scoring system.
 
 
-
-
 Table of Contents
-
-
 
 Game Features
 Getting Started
